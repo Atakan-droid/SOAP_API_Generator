@@ -1,0 +1,4 @@
+http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso
+https://www.dataaccess.com/webservicesserver/NumberConversion.wso
+http://webservices.daehosting.com/services/isbnservice.wso
+https://www.w3schools.com/xml/tempconvert.wso
